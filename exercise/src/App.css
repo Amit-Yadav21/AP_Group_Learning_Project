@@ -1,0 +1,130 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+
+.h1style{
+    min-width: 20rem;
+    width: 50rem;
+    padding: 2rem 2rem;
+    background-color: cyan;
+    color: #2980b9;
+    border-radius: 5rem;
+    box-shadow: 0rem 2rem 2rem -1.5 rgba(0,0,0,0,0.5);
+    text-align: center;
+}
+
+.cdbtn button{
+  width: 10rem;
+  padding: 1rem;
+  background-color: cyan;
+  color:black;
+  border-radius: 3rem;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.border{
+  border: 1px solid blue;
+}
+.btnInner{
+  color:white;
+  background-color: red;
+  border-radius: 15px;
+  margin-left: 30px;
+  
+}
+.btnInner:hover{
+  background-color:white;
+  color: red;
+}
+
+/* -----------------------------------UseRef css */
+.form{
+  background-color: #2980b9;
+  height: 15rem;
+  border-radius: 10px;
+  border: red 2px solid ;
+  /* position: fixed; */
+}
+.form label{
+  margin-top: 20px;
+}
+.form input{
+  width: 80%;
+  border-radius: 12px;
+  text-align: center;
+}
+.subtn{
+  margin-top: 20px;
+  border-radius: 15px;
+}
+/* ------------------------------------ */
+
+/* ......................DataFetching css........................... */
+
+/* body{
+  background-color: #b3e5fc;
+  border-radius: 10px;
+  font-family: 'Raleway',sans-serif;
+  margin-right: 20px;
+}
+
+h2{
+  text-align: center;
+  font-style: oblique;
+  margin: 20px 0;
+}
+.textleft{
+  text-align: left;
+}
+.card{
+  width: 450px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+  margin-top: auto;
+}
+.image{
+  min-width: 140px;
+  height: 200px;
+  margin-right: 20px;
+}
+.stats{
+  background: #f2f5f8 !important;
+  color: #000 !important;
+}
+.articles{
+  font-size: 10px;
+  color: #a1aab9;
+}
+.number1{
+  font-weight: 500;
+}
+.number2{
+  font-weight: 500;
+}
+.number2{
+  font-weight: 500;
+}
+.followers{
+  font-size: 10px;
+  color: #a1aab9;
+}
+.rating{
+  font-size: 10px;
+  color: #a1aab9;
+} */
+
+/* ----------------       ------------------------- */

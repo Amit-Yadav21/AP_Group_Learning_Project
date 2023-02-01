@@ -1,0 +1,79 @@
+
+body{
+    background-color: lavender ;
+}
+.row1{
+  display: flex;
+  gap: 20px;
+  margin-top: 35px;
+  border: hidden;
+}
+.row1 input[type='text']::placeholder{
+  padding-left: 20px;
+}
+.row1 input{
+  margin-top: 15px;
+  width: 30rem;
+}
+input{
+  border: hidden;
+  border-radius: 5px;
+  height: 2.5rem;
+  /* width: 20rem; */
+}
+.row2{
+  display: flex;
+  gap: 21rem;
+  margin-top: 15px;
+}
+.ratio-check{
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+.ratio-check label{
+  margin-top: 6px;
+}
+.ratio-check input{
+  background-color:gray;
+}
+form{
+  margin: 150px 50px 50px 400px;
+}
+form h2{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+textarea{
+  width: 61.5rem;
+  height: 70px;
+  border: hidden;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+.address{
+  margin-top: 20px;
+  border: none;
+}
+.s-btn{
+  background-color:rgba(0, 98, 255, 0.819);
+  color: white;
+  border-radius: 5px;
+  margin: 20px 0px 0px 450px;
+  border: hidden;
+  font-size: 1.2rem;
+  width: 100px;
+  height: 2.5rem;
+  padding: 5px;
+}
+
+.op{
+  border: hidden;
+  background-color: white;
+  border-radius: 5px;
+  height: 2.35rem;
+  margin-top: 15px;
+  width: 30rem;
+  padding-left: 15px;
+  color: gray;
+}
